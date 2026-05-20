@@ -35,3 +35,10 @@ power = -(((value - mean) ** 2) / (2 * (std ** 2)))
 normal = (1 / (((2 * pi) ** 0.5) * std)) * (e ** power)
 
 print("Normal Distribution Value =", normal)
+
+# Mean is in the center
+# Mean = average value
+# Symmetrical
+# Left side and right side are same shape
+# Bell-shaped curve
+# Mean = Median = Mode
